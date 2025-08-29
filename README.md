@@ -2,6 +2,7 @@
 
 ## Project Name
 Operation Analysis and Investigating Metric Spike: Advanced SQL Data Analysis
+
 <img width="1133" height="760" alt="image" src="https://github.com/user-attachments/assets/2d769e84-1bb2-4a96-9f2c-f5f19c16c33b" />
 
 
